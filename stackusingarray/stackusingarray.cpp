@@ -71,7 +71,7 @@ int main() {
 		cout << "\nEnter your choice : ";
 		cin >> ch;
 		switch (ch) {
-		case'1': {
+		case'1': 
 			s.push();
 			break;
 		case '2':
